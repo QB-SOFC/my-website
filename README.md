@@ -6,4 +6,4 @@ example changes
 
 Now editing on update-readme branch!
 
-Updated locally
+Updated locally and remotely
