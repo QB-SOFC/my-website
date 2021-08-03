@@ -4,6 +4,4 @@ This is really awesome!
 
 example changes
 
-Now editing on update-readme branch!
-
-Updated locally and remotely
+Update made on main on GitHub before rebase
